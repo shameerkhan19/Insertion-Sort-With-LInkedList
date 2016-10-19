@@ -1,0 +1,163 @@
+String inserted: (you)
+ListHead-->(dummy,you)-->(you, Null)-->Null
+
+String inserted: (i)
+ListHead-->(dummy,i)-->(i,you)-->(you, Null)-->Null
+
+String inserted: (he)
+ListHead-->(dummy,he)-->(he,i)-->(i,you)-->(you, Null)-->Null
+
+String inserted: (she)
+ListHead-->(dummy,he)-->(he,i)-->(i,she)-->(she,you)-->(you, Null)-->Null
+
+String inserted: (are)
+ListHead-->(dummy,are)-->(are,he)-->(he,i)-->(i,she)-->(she,you)-->(you, Null)-->Null
+
+String inserted: (is)
+ListHead-->(dummy,are)-->(are,he)-->(he,i)-->(i,is)-->(is,she)-->(she,you)-->(you, Null)-->Null
+
+String inserted: (was)
+ListHead-->(dummy,are)-->(are,he)-->(he,i)-->(i,is)-->(is,she)-->(she,was)-->(was,you)-->(you, Null)-->Null
+
+String inserted: (am)
+ListHead-->(dummy,am)-->(am,are)-->(are,he)-->(he,i)-->(i,is)-->(is,she)-->(she,was)-->(was,you)-->(you, Null)-->Null
+
+String inserted: (were)
+ListHead-->(dummy,am)-->(am,are)-->(are,he)-->(he,i)-->(i,is)-->(is,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (of)
+ListHead-->(dummy,am)-->(am,are)-->(are,he)-->(he,i)-->(i,is)-->(is,of)-->(of,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (and)
+ListHead-->(dummy,am)-->(am,and)-->(and,are)-->(are,he)-->(he,i)-->(i,is)-->(is,of)-->(of,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (if)
+ListHead-->(dummy,am)-->(am,and)-->(and,are)-->(are,he)-->(he,i)-->(i,if)-->(if,is)-->(is,of)-->(of,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (or)
+ListHead-->(dummy,am)-->(am,and)-->(and,are)-->(are,he)-->(he,i)-->(i,if)-->(if,is)-->(is,of)-->(of,or)-->(or,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (him)
+ListHead-->(dummy,am)-->(am,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,of)-->(of,or)-->(or,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (a)
+ListHead-->(dummy,a)-->(a,am)-->(am,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,of)-->(of,or)-->(or,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (an)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,of)-->(of,or)-->(or,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (one)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,of)-->(of,one)-->(one,or)-->(or,she)-->(she,was)-->(was,were)-->(were,you)-->(you, Null)-->Null
+
+String inserted: (yes)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,of)-->(of,one)-->(one,or)-->(or,she)-->(she,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (no)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,no)-->(no,of)-->(of,one)-->(one,or)-->(or,she)-->(she,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (on)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (in)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (that)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (the)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (they)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,they)-->(they,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (them)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (who)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,who)-->(who,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (what)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,who)-->(who,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (where)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,where)-->(where,who)-->(who,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (when)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (how)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (why)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (it)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (here)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (there)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (not)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (this)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (for)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (as)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+String inserted: (be)
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
+ListHead-->(dummy,a)-->(a,am)-->(am,an)-->(an,and)-->(and,are)-->(are,as)-->(as,be)-->(be,for)-->(for,he)-->(he,here)-->(here,him)-->(him,how)-->(how,i)-->(i,if)-->(if,in)-->(in,is)-->(is,it)-->(it,no)-->(no,not)-->(not,of)-->(of,on)-->(on,one)-->(one,or)-->(or,she)-->(she,that)-->(that,the)-->(the,them)-->(them,there)-->(there,they)-->(they,this)-->(this,was)-->(was,were)-->(were,what)-->(what,when)-->(when,where)-->(where,who)-->(who,why)-->(why,yes)-->(yes,you)-->(you, Null)-->Null
+
